@@ -1,4 +1,4 @@
-# Querying Wikidata with a glimpse of SPARQL
+# Querying Wikidata with a glimpse of SPARQL
 
 Wikidata represents the underlying basement of Wikipedia,it's the collaboratively edited 
 knowledge base filling up Wikipedia with data.
